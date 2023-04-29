@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Signika+Negative&display=swap');
+
+/*font-family: 'Signika Negative', sans-serif;*/
+.logo {
+    font-family: 'Permanent Marker', cursive;
+    text-decoration: underline;
+    color: rgb(56, 241, 40);
+}
+
+.Fonts h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.Fonts h4 {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.chandani {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(74, 41, 194);
+
+}
+
+.about {
+    padding: 15px;
+}
+
+.aboutxt {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.aboutPara {
+    font-size: 20px;
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+}
+
+.about-img {
+    border-radius: 50px;
+    border: solid 4px#91C788;
+
+}
+
+.workhead {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding: 2%;
+    text-decoration: underline;
+}
+
+.about {
+    background-color: #F1F1F6;
+}
+
+.work {
+    background-color: #787A91;
+    padding-bottom: 2%;
+
+}
+
+.BMI {
+    background-color: #F1F1F6;
+
+
+}
+
+.contact {
+    background-color: #787A91;
+    padding: 2rem;
+
+}
+
+
+.BMIhead {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding-top: 2%;
+    text-decoration: underline;
+}
+
+.bmip {
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.calculator-container {
+    text-align: center;
+}
+
+.result {
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    margin-bottom: none;
+
+}
+
+.calculate {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+.result-statement {
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    font-size: large;
+    padding-bottom: 2%;
+    margin: 0rem;
+
+}
+
+.conthead {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 2rem;
+}
+
+.conth {
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+.contp1 {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.contp2 {
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bold;
+}
+
+.m {
+    font-family: 'Permanent Marker', cursive;
+    text-decoration: underline;
+    color: rgb(46, 192, 107);
+    text-align: center;
+}
+
+.form1 {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.CEO {
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+.con {
+    height: 300px;
+    background-color:#F1F1F6;
+}
